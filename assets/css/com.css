@@ -1,7 +1,7 @@
 @media (max-width: 768px) {
   .video-player {
     width: 100%;
-    background: 000000;
+    background: 0 0;
   }
   .video-player iframe {
     width: 100%;
